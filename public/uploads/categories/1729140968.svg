@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="250" viewBox="0 0 250 250">
+  <defs>
+    <clipPath id="clip-Category_Icon_Accessories">
+      <rect width="250" height="250"/>
+    </clipPath>
+  </defs>
+  <g id="Category_Icon_Accessories" data-name="Category Icon – Accessories" clip-path="url(#clip-Category_Icon_Accessories)">
+    <path id="headphones-alt-solid" d="M78.125,157H70.313a31.276,31.276,0,0,0-31.25,31.309v31.133a31.279,31.279,0,0,0,31.25,31.309h7.813A15.643,15.643,0,0,0,93.75,235.1V172.654A15.639,15.639,0,0,0,78.125,157Zm101.562,0h-7.812a15.639,15.639,0,0,0-15.625,15.654V235.1a15.643,15.643,0,0,0,15.625,15.654h7.812a31.279,31.279,0,0,0,31.25-31.309V188.309A31.279,31.279,0,0,0,179.688,157ZM125,32C55.132,32,2.231,90.169,0,157v54.688A7.81,7.81,0,0,0,7.813,219.5h7.813a7.81,7.81,0,0,0,7.813-7.813V157a101.563,101.563,0,0,1,203.125,0v54.688a7.81,7.81,0,0,0,7.813,7.813h7.813A7.81,7.81,0,0,0,250,211.687V157C247.769,90.169,194.868,32,125,32Z" transform="translate(0.001 -16)"/>
+  </g>
+</svg>

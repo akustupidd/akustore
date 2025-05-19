@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="250" viewBox="0 0 250 250">
+  <defs>
+    <clipPath id="clip-Category_Icon_Mobile_Phone">
+      <rect width="250" height="250"/>
+    </clipPath>
+  </defs>
+  <g id="Category_Icon_Mobile_Phone" data-name="Category Icon_Mobile Phone" clip-path="url(#clip-Category_Icon_Mobile_Phone)">
+    <path id="mobile-android-alt-solid" d="M132.813,0H23.438A23.444,23.444,0,0,0,0,23.438V226.563A23.444,23.444,0,0,0,23.438,250H132.813a23.444,23.444,0,0,0,23.437-23.437V23.438A23.444,23.444,0,0,0,132.813,0Zm-31.25,220.7a5.877,5.877,0,0,1-5.859,5.859H60.547a5.877,5.877,0,0,1-5.859-5.859V216.8a5.877,5.877,0,0,1,5.859-5.859H95.7a5.877,5.877,0,0,1,5.859,5.859Zm31.25-39.063a5.877,5.877,0,0,1-5.859,5.859H29.3a5.877,5.877,0,0,1-5.859-5.859V29.3A5.877,5.877,0,0,1,29.3,23.438h97.656a5.877,5.877,0,0,1,5.859,5.859Z" transform="translate(47)"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="250" viewBox="0 0 250 250">
+  <defs>
+    <clipPath id="clip-Category_Icon_Laptop">
+      <rect width="250" height="250"/>
+    </clipPath>
+  </defs>
+  <g id="Category_Icon_Laptop" data-name="Category Icon – Laptop" clip-path="url(#clip-Category_Icon_Laptop)">
+    <path id="laptop-regular" d="M243.75,137.5H225V25A25.074,25.074,0,0,0,200,0H50A25.073,25.073,0,0,0,25,25V137.5H6.25A6.268,6.268,0,0,0,0,143.75V162.5A37.61,37.61,0,0,0,37.5,200h175A37.61,37.61,0,0,0,250,162.5V143.75A6.268,6.268,0,0,0,243.75,137.5ZM43.75,25A6.335,6.335,0,0,1,50,18.75H200A6.335,6.335,0,0,1,206.25,25V137.5H43.75Zm187.5,137.5a18.77,18.77,0,0,1-18.75,18.75H37.5A18.77,18.77,0,0,1,18.75,162.5v-6.25H89.414A12.321,12.321,0,0,0,100,162.5h50a12.326,12.326,0,0,0,10.586-6.25H231.25Z" transform="translate(0 25)"/>
+  </g>
+</svg>

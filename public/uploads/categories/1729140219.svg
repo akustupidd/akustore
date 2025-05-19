@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="250" viewBox="0 0 250 250">
+  <defs>
+    <clipPath id="clip-Category_Icon_Tablet">
+      <rect width="250" height="250"/>
+    </clipPath>
+  </defs>
+  <g id="Category_Icon_Tablet" data-name="Category Icon – Tablet" clip-path="url(#clip-Category_Icon_Tablet)">
+    <path id="tablet-android-alt-solid" d="M195.313,0H23.438A23.444,23.444,0,0,0,0,23.438V226.563A23.444,23.444,0,0,0,23.438,250H195.313a23.444,23.444,0,0,0,23.438-23.437V23.438A23.444,23.444,0,0,0,195.313,0ZM140.625,220.7a5.877,5.877,0,0,1-5.859,5.859H83.984a5.877,5.877,0,0,1-5.859-5.859V216.8a5.877,5.877,0,0,1,5.859-5.859h50.781a5.877,5.877,0,0,1,5.859,5.859Zm54.688-39.062a5.877,5.877,0,0,1-5.859,5.859H29.3a5.877,5.877,0,0,1-5.859-5.859V29.3A5.877,5.877,0,0,1,29.3,23.438H189.453a5.877,5.877,0,0,1,5.859,5.859Z" transform="translate(16)"/>
+  </g>
+</svg>

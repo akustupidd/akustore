@@ -1,0 +1,290 @@
+/* Large screen desktop */
+@media (min-width: 1365px) and (max-width: 1500px){
+
+
+
+}
+
+@media (min-width: 1200px) and (max-width: 1299px){
+
+
+
+}
+
+
+@media (min-width: 1170px) and (max-width: 1299px){
+
+
+
+}
+
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+
+.pro-content {
+  padding: 30px 10px;
+}
+  
+  .product-quantity-2 span {
+    left: 56px;
+}
+  .product-quantity-2 span.inc.qtybtn {
+    right: 54px;
+}
+  
+  
+  
+  
+  
+  
+  
+  
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  .cart-total {
+    margin-top: 30px;
+  }
+  .sidebar.shop-sidebar {
+  margin-top: 50px;
+}
+  .blog-sidebar {
+  margin-top: 40px;
+}
+  
+  .error-content > p {
+  padding: 0;
+}
+  
+  .product-quantity-2 span {
+    left: 20px;
+}
+  .product-quantity-2 span.inc.qtybtn {
+    right: 20px;
+}
+  #moda-compare .modal-dialog {
+    max-width: 85%;
+}
+  
+  
+  
+
+
+}
+
+
+/* Small and large mobile :320px. */
+@media (max-width: 767px) {
+  .scrolling-text {
+    padding-right: 0;
+  }
+  #section-header .cart-box .total-pro {
+    font-size: 15px;
+  }
+  .cart-box .total-pro::before {
+    font-size: 20px;
+    top: 11px;
+  }
+  a.remove {
+    height: 40px;
+  }
+  .theme-logo img {
+    width: 100px;
+  }
+
+  .setting-box .avatar-online {
+    height: 35px;
+    width: 35px;
+  }
+
+  .scrolling-text p ,
+  #section-header .setting-box ul li a .title-user {
+    font-size: 14px;
+  }
+
+  .scrolling-text a img {
+    width: 20px;
+    height: 20px;
+  }
+
+  .scrolling-text a {
+    font-size: 14px;
+  }
+
+  .cart-total {
+    margin-top: 30px;
+  }
+  
+  .cart-buttons .theme-default-button{
+    padding: 8px 20px;
+  }
+  .cart-box .total-pro {
+  width: 110px;
+}
+  
+  .sidebar.shop-sidebar {
+  margin-top: 50px;
+}
+ .quatity-stock label {
+  margin: 11px 4px 10px 0;
+} 
+ .quatity-stock ul li:not(:last-child) {
+  margin-right: 6px;
+} 
+  .tab-pane h2 {
+  font-size: 22px;
+}
+  .blog-sidebar {
+  margin-top: 40px;
+}
+  .qwick-view-content > h1 {
+  font-size: 26px;
+}
+  
+    
+  .error-content > p {
+  padding: 0;
+}
+  
+  #list-view .single-ponno-product .pro-actions-link {
+  margin-left: 6px;
+}
+#list-view .single-ponno-product .pro-actions-link a {
+  margin-right: 5px;
+}
+#list-view .pro-add-cart a {
+    width: 120px;
+}
+  .meta-box li {
+  margin-right: 5px;
+}
+  
+    
+  .Payment_button button {
+    float: none;
+    width: 100%;
+}
+  .shopify-payment-button .shopify-payment-button__more-options {
+    margin-top: 15px;
+}
+  
+  .product-variant-option .selector-wrapper select {
+    width: 100%;
+}
+  
+.instagram-activation .instagram_gallery a {
+  width: 100%;
+}
+  
+  .cart-table table,.table-content table td input {
+    border: none;
+}
+  
+  .cart-table table tbody tr td {
+    border-right: none;
+}
+  
+  .table-content table td.product-thumbnail,.table-content table td.product-name,.table-content table td.product-price,.table-content table td.product-quantity,.table-content table td.product-subtotal,.table-content table td.product-remove {
+    width: 100%;
+}
+  
+  
+  .product-quantity-2 span {
+    left: 40%;
+}
+  .product-quantity-2 span.inc.qtybtn {
+    right: 40%;
+}
+  .buttons-cart input,.buttons-cart a {
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+  
+  .cart_totals table th {
+    text-align: left;
+}
+  .wc-proceed-to-checkout .check_out_btn {
+    width: 100%;
+}
+  .compare_modal h4 {
+    font-size: 20px;
+}
+  #moda-compare .modal-dialog {
+    max-width: 90%;
+}
+  
+
+}
+
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+.slider-content.text-left > p {
+  font-size: 13px;
+}
+  .buttons-cart input {
+    margin-bottom: 20px;
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}
+
+/* Small Mobile :320px. */
+@media only screen and (max-width: 479px) {
+  .login-form-container {
+    padding: 30px 20px;
+  }
+  .form-action-button .theme-default-button + .theme-default-button, 
+  .cart-buttons .theme-default-button + .theme-default-button{
+    margin-left: 0;
+    margin-top: 20px;
+  }
+  .form-action-button .theme-default-button,
+  .cart-buttons .theme-default-button,
+  .guest-form-container .theme-default-button{
+    float: left;
+    width: 100%;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}
